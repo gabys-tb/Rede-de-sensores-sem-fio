@@ -9,10 +9,7 @@ Este projeto simula uma Rede de Sensores Sem Fio (RSSF), implementando um servid
 - **Descoberta Dinâmica de Vizinhos:** Sensores ajustam suas medições com base nos dados dos sensores mais próximos.
 
 ## Compilação
-É necessário ter o GCC instalado para compilar os códigos fonte. Siga estes passos para compilar o projeto:
-1. Após clonar o repositório, navegue até a pasta do projeto e execute:
-
-make
+É necessário ter o GCC instalado para compilar os códigos fonte. Após clonar o repositório, navegue até a pasta do projeto e execute make para a compilação.
 
 ## Uso
 ### Servidor
